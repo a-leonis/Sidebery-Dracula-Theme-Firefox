@@ -11,6 +11,8 @@ This is just a simple fork of Gale for FF (https://github.com/mgastonportillo/ga
 
 - Works with Dracula theme for Fire Fox
 
+- Only tested on Linux (kde & gnome) and windows.
+
 Expanded:
 
 ![Screenshot 2022-09-22 205532](https://user-images.githubusercontent.com/83378563/191875193-e233c407-b01d-40d8-9e8d-9fb12cbf1daf.png)
